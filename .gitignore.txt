@@ -1,12 +1,13 @@
-# backend
-venv/
+# Python
 __pycache__/
+*.pyc
+venv/
 .env
 
-# frontend
+# Frontend
 node_modules/
 dist/
 
-# data files
+# Data files
 *.xlsx
 *.csv
