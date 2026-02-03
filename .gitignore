@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Frontend
+node_modules/
+dist/
+
+# Data files
+*.xlsx
+*.csv
